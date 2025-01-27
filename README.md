@@ -17,19 +17,18 @@
 
 ### A organização deste repositório segue a seguinte estrutura:
 
-```── exercicios/
+```
+── exercicios/
    ── basicos/
-       ── exemplo1.go
-       ── exemplo2.go
+       __Modulo1
+         ── exemplo1.go
+         ── exemplo2.go
    ── intermediarios/
-       ── exemplo1.go
+     __Modulo1
+         ── exemplo1.go
    ── avancados/
-       ── exemplo1.go
-
-   ── conceitos/
-   ── tipos_dados.go
-   ── estruturas_condicionais.go
-   ── laços_repeticao.go
+      __Modulo1
+         ── exemplo1.go
 
  ── README.md
 ```
@@ -38,7 +37,7 @@
 
 * exercicios/: Contém exemplos práticos e exercícios separados por nível de dificuldade (básico, intermediário e avançado).
 
-* conceitos/: Contém arquivos que explicam conceitos fundamentais da linguagem Go e como aplicá-los.
+
 
 ## Tecnologias Utilizadas
 
