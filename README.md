@@ -22,13 +22,18 @@
    ── basicos/
        __Modulo1
          ── exemplo1.go
-         ── exemplo2.go
+       ──Modulo2
+         __exemplo2.go 
    ── intermediarios/
-     __Modulo1
+       __Modulo1
          ── exemplo1.go
+       __Modulo2
+         ── exemplo2.go
    ── avancados/
-      __Modulo1
+       __Modulo1
          ── exemplo1.go
+       __Modulo2
+         ── exemplo2.go
 
  ── README.md
 ```
@@ -36,6 +41,7 @@
 ## Diretórios Principais
 
 * exercicios/: Contém exemplos práticos e exercícios separados por nível de dificuldade (básico, intermediário e avançado).
+* No código há comentários que facilitam o entendimento.
 
 
 
